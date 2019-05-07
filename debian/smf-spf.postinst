@@ -36,9 +36,9 @@ else
     esac
 fi
 
-systemctl daemon-reload
-systemctl enable smf-spf
-systemctl start smf-spf
+#systemctl daemon-reload
+#systemctl enable smf-spf
+#systemctl start smf-spf
 
 if test ! -d $DATADIR; then
     mkdir -p -m 700 $DATADIR; \

@@ -8,4 +8,4 @@ Standards-Version: 3.9.6
 Package: smf-spf
 Architecture: amd64
 Description: It's a lightweight, fast and reliable Sendmail milter that implements the Sender Policy Framework
-Depends: ${misc:Depends}, ${shlibs:Depends}, libmilter, libspf2-2
+Depends: ${misc:Depends}, ${shlibs:Depends}, libmilter1.0.1, libspf2-2
