@@ -1,3 +1,9 @@
+smf-spf (20190423.110407) UNRELEASED; urgency=medium
+
+  * Add debian service
+
+ -- root <deben.oldert@byte.nl>  Tue, 23 Apr 2019 11:02:26 +0200
+
 smf-spf (20190404.164231) jessie; urgency=medium
 
   * Add debian packaging
